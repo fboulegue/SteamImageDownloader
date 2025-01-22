@@ -10,7 +10,7 @@ Ensure you have the following installed before running the script:
 - Python (>= 3.7)
 - Required Python packages:
   ```bash
-  pip install requests beautifulsoup4 selenium webdriver-manager
+  pip install requests beautifulsoup4 selenium webdriver-manager lxml
   ```
 - Google Chrome installed (latest version)
 - Chrome WebDriver (automatically managed by `webdriver-manager`)
